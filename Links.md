@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 07:29 IR
+- 📥 [SlipStream-GUI-Windows-x64.exe](https://github.com/Sinfival/sandbox/raw/main/dl/SlipStream-GUI-Windows-x64.exe) `87.9MB`
+
+---
+
+
 ### 📅 2026-04-28 07:01 IR
 - 📥 [SlipStream-GUI-Windows-x64-Portable.exe](https://github.com/Sinfival/sandbox/raw/main/dl/SlipStream-GUI-Windows-x64-Portable.exe) `87.6MB`
 
